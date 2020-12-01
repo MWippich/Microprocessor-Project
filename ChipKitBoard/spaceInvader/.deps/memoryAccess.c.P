@@ -1,0 +1,2 @@
+memoryAccess.c.o: memoryAccess.c /opt/mcb32tools/include/pic32mx.h
+memoryAccess.c /opt/mcb32tools/include/pic32mx.h :
